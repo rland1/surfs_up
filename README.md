@@ -10,10 +10,10 @@ I want to live and surf in Hawaii for the rest of my life and decided to open a 
 - Overall June and December are similar in temperatures in Oahu, June's mean temp is 75, and December's is 71. 
 
 ### June Summary
-![image_name](Resources/June%Summary.png)
+![image_name](Resources/June%20Summary.png)
 
 ### December Summary
-![image_name](Resources/Dec%Summary.png)
+![image_name](Resources/Dec%20Summary.png)
 
 ## Summary
 
